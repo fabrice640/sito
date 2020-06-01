@@ -27,7 +27,9 @@
   <link rel="stylesheet"href="style.css"type="text/css">
   <link rel="stylesheet"href="style2.css"type="text/css">
   <link rel="stylesheet"href="style3.css"type="text/css">
-  <link rel="stylesheet"href="style4.css"stylesheet"type="text/css">
+  <link rel="stylesheet"href="style4.css"type="text/css">
+  <link rel="stylesheet"href="style5.css"type="text/css">
+  <link rel="stylesheet"href="style6.css"type="text/css">
 <link rel="stylesheet"href="bitnami.css"stylesheet"type="text/css">
 </head>
 
