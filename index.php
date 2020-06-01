@@ -10,21 +10,20 @@
 
 
 
-<link rel="stylesheet"href="style.css"type="text/css">
+  <link rel="stylesheet"href="bitnami.css"type="text/css">
+    <link rel="stylesheet"href="style.css"type="text/css">
   <link rel="stylesheet"href="style2.css"type="text/css">
   <link rel="stylesheet"href="style3.css"type="text/css">
-  <link rel="stylesheet"href="style4.css"stylesheet"type="text/css">
-<link rel="stylesheet"href="bitnami.css"stylesheet"type="text/css">
+  <link rel="stylesheet"href="style4.css"type="text/css">
+  <link rel="stylesheet"href="style5.css"type="text/css">
+  <link rel="stylesheet"href="style6.css"type="text/css">
+
+
 <!-- JS, Popper.js, and jQuery -->
 
 
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-<script src="/accesso.js"></script>
-<script src="/admin.js"></script>
-<script src="/admin2.js"></script>
-<script src="/selezione.js"></script>
-<script src="/database.js"></script>
-<script src="/inserisci.js"></script>
+
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
