@@ -24,13 +24,13 @@
   <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
 
   <!-- Custom styles for this template-->
-  <link rel="stylesheet"href="style.css"type="text/css">
+ <link rel="stylesheet"href="style.css"type="text/css">
+  <link rel="stylesheet"href="bitnami.css"type="text/css">
   <link rel="stylesheet"href="style2.css"type="text/css">
   <link rel="stylesheet"href="style3.css"type="text/css">
   <link rel="stylesheet"href="style4.css"type="text/css">
   <link rel="stylesheet"href="style5.css"type="text/css">
   <link rel="stylesheet"href="style6.css"type="text/css">
-<link rel="stylesheet"href="bitnami.css"stylesheet"type="text/css">
 </head>
 
 <body id="page-top">
